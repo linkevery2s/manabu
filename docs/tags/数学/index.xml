@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数学 on MANABU</title>
+    <link>https://linkevery2s.github.io/manabu/tags/%E6%95%B0%E5%AD%A6/</link>
+    <description>Recent content in 数学 on MANABU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linkevery2s.github.io/manabu/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>計算は余白いっぱい使っているか？</title>
+      <link>https://linkevery2s.github.io/manabu/post/20201008/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/post/20201008/</guid>
+      <description>&lt;p&gt;試験や問題集で計算問題を解く時にやってしまうのが、計算ミス。&lt;/p&gt;
+&lt;p&gt;今回はこの計算ミスについて、お話したいと思います。繰り上げミスや分数の割り算ミス。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>単位を大切にしているか？</title>
+      <link>https://linkevery2s.github.io/manabu/post/20201005/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/post/20201005/</guid>
+      <description>&lt;p&gt;今日は単位についてです。&lt;/p&gt;
+&lt;p&gt;理解や数学で単位を扱う時は多々あります。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
