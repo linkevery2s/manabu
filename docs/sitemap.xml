@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://linkevery2s.github.io/manabu/index.html/</loc>
+    <loc>https://linkevery2s.github.io/manabu/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://linkevery2s.github.io/manabu/index.html/post/</loc>
+    <loc>https://linkevery2s.github.io/manabu/post/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://linkevery2s.github.io/manabu/index.html/tags/</loc>
+    <loc>https://linkevery2s.github.io/manabu/tags/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://linkevery2s.github.io/manabu/index.html/tags/%E5%8B%89%E5%BC%B7%E6%B3%95/</loc>
+    <loc>https://linkevery2s.github.io/manabu/about/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://linkevery2s.github.io/manabu/index.html/post/20201001/</loc>
+    <loc>https://linkevery2s.github.io/manabu/tags/%E5%8B%89%E5%BC%B7%E6%B3%95/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://linkevery2s.github.io/manabu/post/20201001/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
