@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首都直下型地震 on MANABU</title>
+    <link>https://linkevery2s.github.io/manabu/index.html/tags/%E9%A6%96%E9%83%BD%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87/</link>
+    <description>Recent content in 首都直下型地震 on MANABU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 24 Jun 2022 12:19:04 +0900</lastBuildDate><atom:link href="https://linkevery2s.github.io/manabu/index.html/tags/%E9%A6%96%E9%83%BD%E7%9B%B4%E4%B8%8B%E5%9E%8B%E5%9C%B0%E9%9C%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>津波のスピードを図解化</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/tspeed/</link>
+      <pubDate>Fri, 24 Jun 2022 12:19:04 +0900</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/tspeed/</guid>
+      <description>&lt;p&gt;津波のスピードを図解にしました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>家具の固定について</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/furniture/</link>
+      <pubDate>Sat, 18 Jun 2022 12:27:48 +0900</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/furniture/</guid>
+      <description>&lt;p&gt;家具の固定について、考えてみます。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>東京都河川ライブカメラマップの作成</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/tkriver/</link>
+      <pubDate>Sat, 14 May 2022 16:48:28 +0900</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/tkriver/</guid>
+      <description>&lt;p&gt;東京都のオープンデータを用いて、河川ライブカメラマップを作成しました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>被害率曲線をご存じですか？</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/destructionrate/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/destructionrate/</guid>
+      <description>&lt;p&gt;今日は、被害率曲線のお話です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>東京都災害時給水ステーションをマップ化してみた。</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/tokyowater/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/tokyowater/</guid>
+      <description>&lt;p&gt;東京都のオープンデータを用いて、災害時給水ステーションをマップ化してみました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>東京都の昼間人口を可視化してみた。</title>
+      <link>https://linkevery2s.github.io/manabu/index.html/post/tokyodaytime/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://linkevery2s.github.io/manabu/index.html/post/tokyodaytime/</guid>
+      <description>&lt;p&gt;東京都の昼間人口を可視化してみました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
