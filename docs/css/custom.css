@@ -1,5 +1,5 @@
 #sns_settei{
-	display: inline-block;
+	display: inline-block !important;
 }
 
 .fb_iframe_widget > span {
