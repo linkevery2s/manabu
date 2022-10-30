@@ -1,0 +1,7 @@
+#sns_settei{
+	display: inline-block;
+}
+
+.fb_iframe_widget > span {
+  vertical-align: baseline !important;
+}
