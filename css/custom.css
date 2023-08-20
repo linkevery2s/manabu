@@ -63,3 +63,20 @@ a {
  width: 15px; 
  border-radius: 8px 5px 2px 5px;
 }
+
+#article p {
+  margin: 2.5em 0 2.5em 0 !important;
+}
+
+#at{
+  text-align: right;
+}
+#article_time{
+  color: #1e50a2;
+  border: 1px solid #1e50a2 !important;
+  padding: 0 .5em 0 .5em;
+}
+
+#author:after {
+  content: "リュウ";
+}
