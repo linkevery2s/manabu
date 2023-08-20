@@ -5,20 +5,34 @@
     <link>https://manabu17s.netlify.app/post/</link>
     <description>Recent content in Posts on MANABU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manabu17s.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manabu17s.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do you have time constraints?</title>
+      <title>時間に制約を加える</title>
       <link>https://manabu17s.netlify.app/post/timeconstraints/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://manabu17s.netlify.app/post/timeconstraints/</guid>
-      <description>&lt;img class=&#34;article-image&#34; src=&#34;https://manabu17s.netlify.app/post/timeconstraints/image.png&#34; alt=&#34;time constraints&#34;&gt;
+      <description>&lt;img class=&#34;article-image&#34; src=&#34;https://manabu17s.netlify.app/post/timeconstraints/image.png&#34; alt=&#34;時間に制約を加える&#34;&gt;
     
 
 
-&lt;p&gt;&amp;ldquo;Imposing Constraints on Time&amp;rdquo;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Do you understand the meaning of this phrase?&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+&lt;p&gt;「時間に制約を加える」&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;この言葉がどういう意味か、分かりますか？&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>このブログの目的について</title>
+      <link>https://manabu17s.netlify.app/post/about/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://manabu17s.netlify.app/post/about/</guid>
+      <description>&lt;img class=&#34;article-image&#34; src=&#34;https://manabu17s.netlify.app/post/about/image.png&#34; alt=&#34;time constraints&#34;&gt;
+    
+
+
+&lt;p&gt;皆さん初めまして、私、仁志（ひとし）と申します。&lt;/p&gt;
+&lt;p&gt;まず最初に、このブログの目的から書いていこうと思います。&lt;/p&gt;</description>
     </item>
     
   </channel>

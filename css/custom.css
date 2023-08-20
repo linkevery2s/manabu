@@ -1,0 +1,65 @@
+.title{
+  border-bottom: solid 3px #cce4ff;
+  position: relative;
+  margin-bottom: 2em;
+}
+
+.title:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  border-bottom: solid 3px #5472cd;
+  bottom: -3px;
+  width: 20%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link{
+  border-bottom: dotted 2px #5ca4d0;
+  color: #5ca4d0 !important;
+}
+
+.link:after {
+  font-family: "Font Awesome 6 Free";
+  content: ' \f35d';
+  font-weight: 900;
+}
+
+.link:hover {
+  color: #a7dacb !important;
+  border-bottom: none;
+}
+
+.kokuban-t2 {
+  position: relative;
+  margin: 0;
+  padding: 1em 1em .5em 1em;
+
+  background-color: #006633; 
+  color: #fff;
+  border: 8px solid #b2771f;
+  border-radius: 3px; 
+  box-shadow: 0 0 5px #333, 0 0 5px #555 inset;
+}
+
+.kokuban-t2::before,
+.kokuban-t2::after {
+ position: absolute;
+ content: '';
+ bottom: 0;
+} 
+.kokuban-t2::before {
+ right: 10px;
+ border: solid 3px #fff; 
+ width: 20px; 
+ border-radius: 3px 2px 0 2px;
+}
+.kokuban-t2::after {
+ right: 40px;
+ border: solid 3px #ffff6b; 
+ width: 15px; 
+ border-radius: 8px 5px 2px 5px;
+}
