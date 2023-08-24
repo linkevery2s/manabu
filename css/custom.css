@@ -1,7 +1,8 @@
 .title{
   border-bottom: solid 3px #cce4ff;
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
+  margin-top: 3em;
 }
 
 .title:after {
