@@ -3,6 +3,12 @@
   position: relative;
   margin-bottom: 1.5em;
   margin-top: 3em;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+.post-title, h2 a{
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+  padding-bottom: .3em;
 }
 
 .title:after {
@@ -66,6 +72,11 @@ a {
 
 #article p {
   margin: 0 0 2.5em 0 !important;
+  font-family: serif;
+}
+
+article p{
+  font-family: serif;
 }
 
 #at{
