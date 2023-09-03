@@ -88,3 +88,24 @@ a {
 #author:after {
   content: "リュウ";
 }
+
+.box1 {
+  margin: 2em auto;
+  padding:1em 2em 2em;
+  background-color: rgba(204, 228, 255, 0.5);
+  border-radius:1px;
+}
+
+.box1 .box1_title {
+  color: #5472cd;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.box1 .box1_title:before {
+  font-family: "Font Awesome 6 Free";
+  content: "“";
+  font-size: 18px;
+  margin: 0 3px 0 0;
+  font-weight: bold;
+}
