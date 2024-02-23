@@ -90,8 +90,8 @@ a {
 }
 
 .box1 {
-  margin: 2em;
-  padding: 2em 1em -1em 1em;
+  margin: 2em 0 2em 0;
+  padding: 2em;
   background-color: rgba(204, 228, 255, 0.5);
   border-radius:1px;
 }
