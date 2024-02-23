@@ -90,19 +90,25 @@ a {
 }
 
 .box1 {
-  margin: 2em auto;
-  padding:1em 2em 2em;
+  margin: 2em;
+  padding: 2em 1em -1em 1em;
   background-color: rgba(204, 228, 255, 0.5);
   border-radius:1px;
 }
 
-.box1 .box1_title {
+.box1 p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.box1_title {
   color: #5472cd;
   font-size: 18px;
   font-weight: bold;
+  margin-bottom: 7px !important;
 }
 
-.box1 .box1_title:before {
+.box1_title:before {
   font-family: "Font Awesome 6 Free";
   content: "“";
   font-size: 18px;
