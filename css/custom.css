@@ -116,10 +116,10 @@ a {
   font-weight: bold;
 }
 
-#sns_settei {
-  display: inline-block;
+.fb_iframe_widget > span {
+  vertical-align: top !important;
 }
 
-.fb_iframe_widget>span {
-  vertical-align: baseline !important;
+#sns_settei{
+  display: inline-block !important;
 }
